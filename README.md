@@ -1,4 +1,5 @@
-☔ Rainfall Prediction using Machine Learning 
+#Rainfall Prediction using Machine Learning 
+
 🚀 Project Overview
 This project aims to predict whether rainfall will occur based on various meteorological features. Using machine learning techniques, we classify rainfall occurrence as:
 ✅ Yes (1) – Rainfall will happen
